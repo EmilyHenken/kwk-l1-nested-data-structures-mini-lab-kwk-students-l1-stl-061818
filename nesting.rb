@@ -25,6 +25,6 @@ cities = {
 
 
 cities.each do |city, :population|
-  puts "the population of #{city} is #{:population}."
+  puts "The population of #{city} is #{:population}."
 
 end
