@@ -22,7 +22,7 @@ cities = {
 }
 
 
-cities.each do |cities|
+cities.each do |city|
   puts "the population of #{cities"
 
 puts "The population of #{cities} is"
