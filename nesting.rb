@@ -3,13 +3,13 @@ cities = {
     :mayor => "Bill DeBlasio",
     :population => "8337000",
     :website => "http://www.nyv.gov"
-  }
+  },
   
   :los_angeles => {
     :mayor => "Eric Garcetti",
-    :population = "3884307",
+    :population => "3884307",
     :website => "http://www.lacity.org"
-  }
+  },
   
   :miami => { 
     :mayor => "Tomás Regalado",
