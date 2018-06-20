@@ -7,8 +7,8 @@ cities = {
   :LA => 
     {:mayor => "Eric Garcetti",
     :population = "3884307",
-    :website => "http://www.lacity.org"
-  }
+    :website => "http://www.lacity.org"}
+  
   :miami => { 
     :mayor => "Tomás Regalado",
     :population => 419777,
