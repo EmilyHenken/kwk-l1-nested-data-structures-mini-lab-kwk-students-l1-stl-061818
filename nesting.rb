@@ -4,8 +4,8 @@ cities = {
     :population => "8337000",
     :website => "http://www.nyv.gov"
   }
-  :LA => {
-    :mayor => "Eric Garcetti",
+  :LA => 
+    {:mayor => "Eric Garcetti",
     :population = "3884307",
     :website => "http://www.lacity.org"
   }
