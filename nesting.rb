@@ -17,9 +17,9 @@ cities = {
     :website => "http://www.miamigov.com"
   },
   :chicago => { 
-    :mayor => "Rahm Emanuel",
-    :population => "2695598",
-    :website => "http://www.cityofchicago.org/"
+    {:mayor => "Rahm Emanuel"},
+    {:population => "2695598"},
+    {:website => "http://www.cityofchicago.org/"}
   }
 }
 
