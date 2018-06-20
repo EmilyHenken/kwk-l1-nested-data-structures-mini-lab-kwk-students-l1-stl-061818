@@ -13,12 +13,12 @@ cities = {
   
   :miami => { 
     :mayor => "Tomás Regalado",
-    :population => 419777,
+    :population => "419777",
     :website => "http://www.miamigov.com"
   },
   :chicago => { 
     :mayor => "Rahm Emanuel",
-    :population => 2695598,
+    :population => "2695598",
     :website => "http://www.cityofchicago.org/"
   }
 }
